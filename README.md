@@ -5,16 +5,16 @@ Frontend Developer building modern web experiences with React & TypeScript.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Next.js;Always+learning+something+new." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Next.js;Always+learning+something+new." />
 </p>
 
 ---
 
 ## About Me
 
-I'm a Computer Engineering student with a passion for creating fast, modern, and responsive web applications.
+I'm a Computer Engineering student passionate about building modern, responsive web applications with a strong focus on clean UI and user experience.
 
-Currently exploring **WebSockets**, **Next.js**, and backend development while continuously improving my frontend skills with **React** and **TypeScript**.
+Currently learning **WebSockets**, **Next.js**, and backend development while continuously improving my frontend skills with **React** and **TypeScript**.
 
 ---
 
@@ -24,13 +24,11 @@ Currently exploring **WebSockets**, **Next.js**, and backend development while c
 <tr>
 <td width="100%">
 
-<h3 align="center">
-<a href="https://forecastly-kappa.vercel.app">Forecastly</a>
-</h3>
+<h3 align="center">Forecastly</h3>
 
 <p align="center">
 <a href="https://forecastly-kappa.vercel.app">
-<img src="./assets/forecastly.png" width="92%" alt="Forecastly Preview">
+<img src="./assets/forecastly.png" width="88%" alt="Forecastly Preview">
 </a>
 </p>
 
@@ -66,19 +64,17 @@ A modern weather application featuring real-time weather, 5-day forecasts, dynam
 </tr>
 </table>
 
-<br><br>
+<br>
 
 <table>
 <tr>
 <td width="100%">
 
-<h3 align="center">
-<a href="YOUR_REVNET_DEMO">RevNet</a>
-</h3>
+<h3 align="center">RevNet</h3>
 
 <p align="center">
 <a href="YOUR_REVNET_DEMO">
-<img src="./assets/revnet.png" width="92%" alt="RevNet Preview">
+<img src="./assets/revnet.png" width="88%" alt="RevNet Preview">
 </a>
 </p>
 
@@ -116,35 +112,13 @@ A modern social platform focused on clean design, performance, and engaging user
 
 <h2 align="center">Tech Stack</h2>
 
-<br>
-
-<h3 align="center">Languages</h3>
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,c&perline=5" height="42"/>
-</p>
-
-<br>
-
-<h3 align="center">Frontend</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3" height="42"/>
-</p>
-
-<br>
-
-<h3 align="center">Tools</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&perline=4" height="42"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,c,react,nextjs,tailwind,git,github,vscode,vercel&perline=6" height="40"/>
 </p>
 
 ---
 
 <h2 align="center">Connect</h2>
-
-<br>
 
 <p align="center">
 
