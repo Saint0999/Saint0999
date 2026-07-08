@@ -127,7 +127,3 @@ A modern social platform focused on clean design, performance, and engaging user
 <p align="center">
 <i>"Building things that are simple, fast, and enjoyable to use."</i>
 </p>
-
-## GitHub Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saint0999&theme=github-dark&hide_border=true"/>
