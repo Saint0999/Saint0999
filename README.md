@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhinav</h1>
-<h3 align="center">A passionate frontend developer trying to get better at my craft !</h3>
+<h1 align="center">Hi, I'm Abhinav</h1>
+<h3 align="center">A passionate frontend developer trying to get better at my craft!</h3>
 
 - 🌱 I’m currently learning **WebSockets**
 
