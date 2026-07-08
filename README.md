@@ -1,4 +1,4 @@
-<h1 align="center">Abhinav</h1>
+<h1 align="center">Abhinav Verma</h1>
 
 <p align="center">
 Frontend Developer building modern web experiences with React & TypeScript.
@@ -24,11 +24,13 @@ Currently exploring **WebSockets**, **Next.js**, and backend development while c
 <tr>
 <td width="100%">
 
-<h3 align="center">Forecastly</h3>
+<h3 align="center">
+<a href="https://forecastly-kappa.vercel.app">Forecastly</a>
+</h3>
 
 <p align="center">
 <a href="https://forecastly-kappa.vercel.app">
-<img src="./assets/forecastly.png" width="100%" alt="Forecastly Preview"/>
+<img src="./assets/forecastly.png" width="92%" alt="Forecastly Preview">
 </a>
 </p>
 
@@ -38,24 +40,24 @@ A modern weather application featuring real-time weather, 5-day forecasts, dynam
 
 <p align="center">
 
-`React`
-&nbsp;&nbsp;
-`TypeScript`
-&nbsp;&nbsp;
-`Weather API`
-&nbsp;&nbsp;
-`CSS`
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Weather_API-4A90E2?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
 </p>
 
 <p align="center">
 
 <a href="https://forecastly-kappa.vercel.app">
-<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/▲%20Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Saint0999/forecastly">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Saint0999/Forecastly">
+<img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -64,17 +66,19 @@ A modern weather application featuring real-time weather, 5-day forecasts, dynam
 </tr>
 </table>
 
-<br>
+<br><br>
 
 <table>
 <tr>
 <td width="100%">
 
-<h3 align="center">RevNet</h3>
+<h3 align="center">
+<a href="YOUR_REVNET_DEMO">RevNet</a>
+</h3>
 
 <p align="center">
 <a href="YOUR_REVNET_DEMO">
-<img src="./assets/revnet.png" width="100%" alt="RevNet Preview"/>
+<img src="./assets/revnet.png" width="92%" alt="RevNet Preview">
 </a>
 </p>
 
@@ -84,22 +88,22 @@ A modern social platform focused on clean design, performance, and engaging user
 
 <p align="center">
 
-`React`
-&nbsp;&nbsp;
-`TypeScript`
-&nbsp;&nbsp;
-`Tailwind CSS`
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
 </p>
 
 <p align="center">
 
 <a href="YOUR_REVNET_DEMO">
-<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/▲%20Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="YOUR_REVNET_REPOSITORY">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -110,29 +114,37 @@ A modern social platform focused on clean design, performance, and engaging user
 
 ---
 
-# Tech Stack
+<h2 align="center">Tech Stack</h2>
 
-### Languages
+<br>
+
+<h3 align="center">Languages</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,c"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,c&perline=5" height="42"/>
 </p>
 
-### Frontend
+<br>
+
+<h3 align="center">Frontend</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3" height="42"/>
 </p>
 
-### Tools
+<br>
+
+<h3 align="center">Tools</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&perline=4" height="42"/>
 </p>
 
 ---
 
-# Connect
+<h2 align="center">Connect</h2>
+
+<br>
 
 <p align="center">
 
