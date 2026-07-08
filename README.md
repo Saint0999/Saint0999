@@ -5,7 +5,7 @@ Frontend Developer building modern web experiences with React & TypeScript.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Frontend+Developer.;Building+beautiful+web+experiences.;React+%7C+TypeScript+%7C+Next.js.;Always+learning+something+new."/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Building+beautiful+web+experiences.;React+%7C+TypeScript+%7C+Next.js;UI%2FUX+Enthusiast.;Always+learning+something+new."/>
 </p>
 
 ## About Me
