@@ -17,8 +17,8 @@ Frontend Developer building modern web experiences with React & TypeScript.
 - Computer Engineering student
 - Passionate about frontend development and UI/UX
 - Currently learning **WebSockets**, **Next.js**, and backend fundamentals
-- Enjoy building responsive, modern web applications
-- Always looking to improve as a developer
+- I enjoy building responsive, modern web applications with a strong focus on user experience.
+- Always looking to improve as a developer.
 
 ---
 
@@ -26,13 +26,15 @@ Frontend Developer building modern web experiences with React & TypeScript.
 
 ### Forecastly
 
-A modern weather application built with React and TypeScript featuring:
+A modern weather application built with React and TypeScript.
+
+**Highlights**
 
 - Real-time weather data
-- 5-day forecasts
+- 5-day weather forecasts
 - Dynamic backgrounds
-- Responsive design
-- Clean UI
+- Fully responsive layout
+- Clean, modern UI
 
 **Tech Stack**
 
@@ -40,23 +42,20 @@ A modern weather application built with React and TypeScript featuring:
 
 ---
 
-### Pokedex
+### RevNet
 
-Explore over **1300 Pokémon** with detailed information and an intuitive interface.
+A modern social platform focused on clean design, performance, and user interaction.
 
-**Tech Stack**
+**Highlights**
 
-`React` `JavaScript`
-
----
-
-### Ecommerce Store
-
-A modern ecommerce frontend featuring product browsing, filtering and shopping cart functionality.
+- Modern React architecture
+- Responsive interface
+- Scalable component structure
+- Continuous development
 
 **Tech Stack**
 
-`React` `FakeStore API`
+`React` `TypeScript` `Tailwind CSS`
 
 ---
 
@@ -77,39 +76,8 @@ A modern ecommerce frontend featuring product browsing, filtering and shopping c
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saint0999&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saint0999&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saint0999&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-## Current Focus
-
-```txt
-Frontend Development     ████████████████
-React                    ████████████████
-TypeScript               ██████████████
-Next.js                  ██████████
-Backend                  ███████
-WebSockets               █████
-```
 
 ---
 
@@ -131,6 +99,6 @@ WebSockets               █████
 
 <p align="center">
 
-> *Building things that are simple, fast, and enjoyable to use.*
+<i>Building things that are simple, fast, and enjoyable to use.</i>
 
 </p>
