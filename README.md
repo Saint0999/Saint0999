@@ -1,4 +1,4 @@
-<h1 align="center">Abhinav Verma</h1>
+<h1 align="center">Abhinav</h1>
 
 <p align="center">
 Frontend Developer building modern web experiences with React & TypeScript.
