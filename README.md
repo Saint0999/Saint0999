@@ -113,7 +113,7 @@ A modern social platform focused on clean design, performance, and engaging user
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,c,react,nextjs,tailwind,git,github,vscode,vercel&perline=6" height="48"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,c,react,nextjs,tailwind,git,github,vscode,vercel&perline=6"/>
 </p>
 
 ---
