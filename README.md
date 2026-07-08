@@ -8,15 +8,11 @@ Frontend Developer building modern web experiences with React & TypeScript.
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Next.js;Always+learning+something+new." />
 </p>
 
----
-
 ## About Me
 
 I'm a Computer Engineering student passionate about building modern, responsive web applications with a strong focus on clean UI and user experience.
 
 Currently learning **WebSockets**, **Next.js**, and backend development while continuously improving my frontend skills with **React** and **TypeScript**.
-
----
 
 # Featured Projects
 
@@ -108,15 +104,11 @@ A modern social platform focused on clean design, performance, and engaging user
 </tr>
 </table>
 
----
-
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,react,nextjs,tailwind,git,github,vscode,vercel&perline=6"/>
 </p>
-
----
 
 <h2 align="center">Connect</h2>
 
@@ -131,8 +123,6 @@ A modern social platform focused on clean design, performance, and engaging user
 </a>
 
 </p>
-
----
 
 <p align="center">
 <i>"Building things that are simple, fast, and enjoyable to use."</i>
