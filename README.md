@@ -69,7 +69,7 @@ A modern weather application featuring real-time weather, 5-day forecasts, dynam
 <h3 align="center">RevNet</h3>
 
 <p align="center">
-<a href="YOUR_REVNET_DEMO">
+<a href="https://revnet-pi.vercel.app/">
 <img src="./assets/revnet.png" width="88%" alt="RevNet Preview">
 </a>
 </p>
