@@ -90,11 +90,11 @@ A modern social platform focused on clean design, performance, and engaging user
 
 <p align="center">
 
-<a href="YOUR_REVNET_DEMO">
+<a href="https://revnet-pi.vercel.app/">
 <img src="https://img.shields.io/badge/▲%20Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="YOUR_REVNET_REPOSITORY">
+<a href="https://github.com/Saint0999/RevNet">
 <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
