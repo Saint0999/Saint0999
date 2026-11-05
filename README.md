@@ -11,7 +11,7 @@ I work mainly with React, Next.js, and TypeScript. Computer Engineering student,
 
 #### Stack
 
-<img src="https://skillicons.dev/icons?i=js,ts,c,cpp,react,nextjs,tailwind,git,github"/>
+<img src="https://skillicons.dev/icons?i=js,ts,c,cpp,react,nodejs,express,mongodb,nextjs,tailwind,supabase,git,github"/>
 
 #### Contact
 
